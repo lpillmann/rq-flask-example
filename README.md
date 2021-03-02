@@ -1,4 +1,4 @@
-# rq-python-example
+# rq-flask-example
 
 This is an example of how to use `rq` to manage long running jobs submitted via a Flask API.
 
